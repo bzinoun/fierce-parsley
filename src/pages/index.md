@@ -7,6 +7,7 @@ sections:
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
+    title: "Hello \U0001F44B"
   - type: contentblock
     title: About
     section_id: about
